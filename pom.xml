@@ -19,7 +19,7 @@
 
     <groupId>org.eclipse.microprofile.opentracing</groupId>
     <artifactId>microprofile-opentracing-parent</artifactId>
-    <version>1.0</version>
+    <version>1.0.payara-p1</version>
     <packaging>pom</packaging>
     <name>MicroProfile Opentracing</name>
     <description>Specification for opentracing behavior in Microprofile</description>
