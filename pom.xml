@@ -22,10 +22,10 @@
         <artifactId>microprofile-parent</artifactId>
         <version>2.4</version>
     </parent>
-    
+
     <groupId>org.eclipse.microprofile.opentracing</groupId>
     <artifactId>microprofile-opentracing-parent</artifactId>
-    <version>3.0</version>
+    <version>3.0.payara-p1</version>
     <packaging>pom</packaging>
     <name>MicroProfile OpenTracing</name>
     <description>Specification for OpenTracing behavior in MicroProfile</description>
@@ -62,7 +62,7 @@
         </developer>
     </developers>
 
-   
+
 
     <issueManagement>
         <system>GitHub</system>
